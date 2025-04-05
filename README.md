@@ -33,7 +33,6 @@ Los usuarios pueden cambiar entre el tema claro y oscuro según sus preferencias
 
 ## 📩 Contacto
 📧 **Email:** zearostudio@gmail.com  
-🌐 **Website:** [zearostudio.com](https://zearostudio.com)  
 📸 **Instagram:** [@zearostudio](https://www.instagram.com/zearostudio/)
 
 ---
