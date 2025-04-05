@@ -1,43 +1,41 @@
-# 🎮 Zearo Studios
+# 🌐 Zearo Studio Website
 
-## We are **Zearo Studios**, an independent creative development studio focused on building clean, fun, and engaging web experiences using modern technologies.
+## 🎨 Descripción del Proyecto
+**Zearo Studio Website** es el sitio web oficial de Zearo Studios, un estudio de desarrollo creativo independiente enfocado en construir experiencias web limpias, divertidas y atractivas utilizando tecnologías modernas. El sitio presenta nuestros servicios, proyectos y proporciona una forma de contacto para potenciales clientes.
 
-<div align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
-</div>
+## ✨ Características
+- Diseño moderno y responsivo
+- Soporte para temas claro y oscuro
+- Cambio de idioma entre español e inglés
+- Formulario de contacto interactivo
+- Animaciones suaves y transiciones
+- Navegación intuitiva
 
-## 🛠️ Technologies & Skills
+## 🛠️ Tecnologías Utilizadas
+- HTML5
+- CSS3
+- JavaScript (Vanilla)
+- Formspree para el formulario de contacto
+- Remix Icon para iconos
+- Google Fonts (Inter)
 
-- **Frontend Development**: HTML5, CSS3, JavaScript, React, Vue.js
-- **Backend Development**: Node.js, Express, Python, Django
-- **Mobile Development**: Flutter, React Native
-- **Database**: MongoDB, PostgreSQL, MySQL
-- **DevOps**: Docker, AWS, CI/CD
-- **Version Control**: Git, GitHub
-- **UI/UX Design**: Figma, Adobe XD
+## 📱 Responsive Design
+El sitio está completamente optimizado para dispositivos móviles, tablets y escritorio, ofreciendo una experiencia de usuario consistente en todas las plataformas.
 
-## 🎯 Featured Project
+## 🔄 Cambios de Idioma
+El sitio soporta dos idiomas (español e inglés) con una transición suave entre ellos, manteniendo la posición de desplazamiento y el tema seleccionado.
 
-> **Who's the Driver** — A web-based trivia game for motorsport fans.  
-> 🏁 Test your knowledge and find out who's behind the wheel!
+## 🌓 Modo Claro/Oscuro
+Los usuarios pueden cambiar entre el tema claro y oscuro según sus preferencias, con una transición suave entre ambos modos.
 
-## 📫 Contact
+## 👥 Contribuciones
+¡Las contribuciones son bienvenidas! Si deseas mejorar el proyecto, por favor abre un issue o un pull request.
 
-<div align="center">
-  <a href="https://www.instagram.com/zearostudio/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="https://github.com/zearostudio">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="https://zearostudio.com">
-    <img src="https://img.shields.io/badge/Website-0099ff?style=for-the-badge&logo=web&logoColor=white" alt="Website">
-  </a>
-</div>
+## 📩 Contacto
+📧 **Email:** zearostudio@gmail.com  
+🌐 **Website:** [zearostudio.com](https://zearostudio.com)  
+📸 **Instagram:** [@zearostudio](https://www.instagram.com/zearostudio/)
 
 ---
 
-✨ Built with passion by **Zearo Studios** ✨ 
+✨ Desarrollado con pasión por **Zearo Studios** ✨ 
